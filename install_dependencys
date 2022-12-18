@@ -1,2 +1,2 @@
-sudo apt -y install nitrogen openbox plank rofi tint2 gnome-terminal firefox
+sudo apt -y install nitrogen openbox plank rofi tint2 gnome-terminal firefox thunar
 sudo apt -y install xcompmgr network-manager pnmixer blueman
