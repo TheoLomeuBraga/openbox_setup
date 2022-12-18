@@ -7,4 +7,5 @@ sudo apt -y install xcompmgr network-manager pnmixer blueman
 
 git clone https://github.com/Tomas-M/xlunch.git
 cd xlunch
+sudo apt install libimlib2-dev libx11-dev
 sudo make install
