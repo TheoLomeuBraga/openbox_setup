@@ -2,6 +2,7 @@ sudo add-apt-repository ppa:snwh/ppa
 sudo apt update
 sudo apt-get install paper-icon-theme
 
+sudo apt install software-properties-common
 sudo add-apt-repository ppa:cairo-dock-team/ppa
 sudo apt-get -y update
 sudo apt -y install cairo-dock cairo-dock-plug-ins
